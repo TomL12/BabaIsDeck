@@ -1,0 +1,10 @@
+{
+  "name": "Baba Is You - On The Island",
+  "description": "Overworld map music from Baba Is You.",
+  "author": "TomL12",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
